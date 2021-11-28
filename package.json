@@ -1,0 +1,20 @@
+{
+  "name": "2021",
+  "version": "0.0.0",
+  "description": "aoc 2021 effin around",
+  "main": "d01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnf/aoc-2021.git"
+  },
+  "author": "jnf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnf/aoc-2021/issues"
+  },
+  "homepage": "https://github.com/jnf/aoc-2021#readme"
+}
