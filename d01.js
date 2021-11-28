@@ -1,7 +1,7 @@
 import { numberReader } from './shared.js'
 
-const testInput = numberReader('./d01_test.txt')
-const input = numberReader('./d01_input.txt')
+const testInput = numberReader('./inputs/d01_test.txt')
+const input = numberReader('./inputs/d01_input.txt')
 const p1 = input => {
   let prev = input[0]
   return input.reduce((count, current) => {
